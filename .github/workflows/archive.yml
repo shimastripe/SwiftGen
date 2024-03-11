@@ -2,7 +2,7 @@ name: Archive
 
 on:
   push:
-    branches: stable
+    branches: feature/xcode-cloud
   pull_request:
 
 jobs:
